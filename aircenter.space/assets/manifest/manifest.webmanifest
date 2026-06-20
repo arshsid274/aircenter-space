@@ -1,0 +1,24 @@
+{
+    "name"              : "Бизнес-центр AIR",
+    "short_name"        : "Бизнес-центр AIR",
+    "description"       : "AIR — премиальный деловой центр на Ходынке от Tekta Group. Футуристический дизайн, офисы нового формата, развитая инфрастуктура. Узнайте, как приобрести офис, этаж или корпус.",
+    "start_url"         : "/",
+    "display"           : "minimal-ui",
+    "orientation"       : "any",
+    "icons": [
+        {
+            "src": "/assets/manifest/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/manifest/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 540 420" style="enable-background:new 0 0 540 420;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="Floor">
+	<polygon class="st0" points="105.993,381.346 105.161,1 429.419,1 429.419,11.245 434.121,11.242 434.838,381.083 	"/>
+</g>
+<g id="Windows">
+	<rect x="105.182" y="1.002" class="st1" width="324.237" height="10.242"/>
+</g>
+<g id="Walls">
+	<polygon class="st2" points="230.612,381.201 105.993,381.357 105.993,354.496 230.529,353.982 	"/>
+	<polygon class="st2" points="114.114,377.415 106.027,377.415 105.182,11.243 113.294,11.243 	"/>
+	<polygon class="st2" points="434.839,381.522 426.777,381.522 426.035,11.243 434.121,11.243 	"/>
+	<polygon class="st2" points="434.839,381.522 365.748,381.522 365.75,373.434 434.839,373.453 	"/>
+	<rect x="106.017" y="373.341" class="st2" width="208.522" height="8.086"/>
+	<rect x="185.104" y="1.001" class="st2" width="3.596" height="10.195"/>
+	<rect x="196.43" y="1.001" class="st2" width="3.596" height="10.195"/>
+	<rect x="105.182" y="1.001" class="st2" width="4.88" height="10.245"/>
+	<rect x="275.346" y="1.001" class="st2" width="5.391" height="10.245"/>
+	<rect x="350.145" y="1.001" class="st2" width="5.391" height="10.245"/>
+	<rect x="424.029" y="1.001" class="st2" width="5.391" height="10.245"/>
+	<path class="st3" d="M430.437,86.672c-6.023,2.075-10.356,7.777-10.356,14.505s4.334,12.43,10.356,14.505V86.672z"/>
+	<path class="st3" d="M109.648,86.036v30.651c8.227-0.286,14.814-7.028,14.814-15.326S117.876,86.323,109.648,86.036z"/>
+</g>
+<g id="Doors">
+	<path class="st1" d="M314.575,381.475l-0.035,14.249c3.644,0,13.941-5.782,14.163-13.991C328.411,400.396,345.621,419,365.631,419
+		l0.117-37.478"/>
+</g>
+</svg>

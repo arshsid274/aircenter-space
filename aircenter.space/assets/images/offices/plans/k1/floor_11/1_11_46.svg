@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 540 420" style="enable-background:new 0 0 540 420;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="Floor">
+	<polygon class="st0" points="391.381,418.999 391.381,408.777 395.348,408.779 395.428,38.096 144.649,38.057 144.57,408.768 
+		145.544,408.779 145.544,419 	"/>
+</g>
+<g id="Windows">
+	<rect x="145.544" y="408.779" class="st1" width="245.837" height="10.221"/>
+</g>
+<g id="Walls">
+	<rect x="296.208" y="38.106" class="st2" width="93.988" height="8.067"/>
+	<rect x="144.649" y="38.082" class="st2" width="101.159" height="8.064"/>
+	<polygon class="st2" points="152.66,408.696 144.57,408.768 144.649,42.112 152.66,42.122 	"/>
+	<polygon class="st2" points="395.43,38.098 387.364,38.096 387.294,408.779 395.348,408.779 	"/>
+	<rect x="387.794" y="408.779" class="st2" width="3.587" height="10.221"/>
+	<rect x="376.489" y="408.779" class="st2" width="3.587" height="10.221"/>
+	<rect x="145.544" y="408.779" class="st2" width="5.378" height="10.221"/>
+	<rect x="220.188" y="408.779" class="st2" width="5.378" height="10.221"/>
+	<rect x="294.84" y="408.779" class="st2" width="5.378" height="10.221"/>
+	<circle class="st3" cx="169.98" cy="321.667" r="15.316"/>
+</g>
+<g id="Doors">
+	<path class="st1" d="M245.8,38.101l-0.022-13.956c3.578,0,13.675,4.801,13.893,12.989C259.385,18.516,276.571,1,296.218,1
+		l-0.009,37.115"/>
+</g>
+</svg>

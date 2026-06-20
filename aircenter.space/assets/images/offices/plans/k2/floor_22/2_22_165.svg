@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 540 420" style="enable-background:new 0 0 540 420;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="Floor">
+	<polygon class="st0" points="388.04,384.686 151.962,384.686 151.962,10.52 157.557,10.52 157.557,1 386.365,1 386.365,10.52 
+		388.04,10.52 	"/>
+</g>
+<g id="Windows">
+	<rect x="157.557" y="1" class="st1" width="228.808" height="9.52"/>
+</g>
+<g id="Walls">
+	<rect x="241.522" y="1" class="st2" width="5.038" height="9.52"/>
+	<rect x="311.425" y="1" class="st2" width="5.038" height="9.52"/>
+	<rect x="381.327" y="1" class="st2" width="5.038" height="9.52"/>
+	<rect x="168.14" y="1" class="st2" width="3.359" height="9.52"/>
+	<rect x="157.557" y="1" class="st2" width="3.359" height="9.52"/>
+	<circle class="st2" cx="173.1" cy="91.312" r="16.272"/>
+	<rect x="151.96" y="377.131" class="st2" width="129.581" height="7.552"/>
+	<rect x="331.477" y="377.131" class="st2" width="56.563" height="7.552"/>
+	<rect x="151.96" y="10.52" class="st2" width="7.552" height="374.163"/>
+	<rect x="380.488" y="10.52" class="st2" width="7.552" height="374.163"/>
+</g>
+<g id="Doors">
+	<path class="st1" d="M281.544,384.587l-0.003,14.94c5.965,0,16.429-5.209,16.429-14.94c0,18.767,16.835,34.413,33.507,34.413
+		l0-34.314"/>
+</g>
+</svg>

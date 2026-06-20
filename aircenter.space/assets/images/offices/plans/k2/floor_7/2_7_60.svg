@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 540 420" style="enable-background:new 0 0 540 420;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="Floor">
+	<polygon class="st0" points="480.245,42.852 59.758,42.852 59.758,415.546 71.426,415.553 71.424,419 480.245,419 	"/>
+</g>
+<g id="Windows">
+	<rect x="59.758" y="43.327" class="st1" width="11.668" height="372.226"/>
+</g>
+<g id="Walls">
+	
+		<rect x="59.755" y="409.41" transform="matrix(-1 -4.519908e-11 4.519908e-11 -1 131.1812 824.9634)" class="st2" width="11.671" height="6.143"/>
+	
+		<rect x="59.755" y="213.838" transform="matrix(-1 -4.519908e-11 4.519908e-11 -1 131.1812 433.8209)" class="st2" width="11.671" height="6.145"/>
+	
+		<rect x="59.755" y="128.58" transform="matrix(-1 -4.465329e-11 4.465329e-11 -1 131.1812 263.2991)" class="st2" width="11.671" height="6.138"/>
+	
+		<rect x="59.755" y="43.327" transform="matrix(-1 -4.519908e-11 4.519908e-11 -1 131.1812 92.7975)" class="st2" width="11.671" height="6.143"/>
+	
+		<rect x="59.755" y="320.244" transform="matrix(-1 -4.519908e-11 4.519908e-11 -1 131.1807 644.5832)" class="st2" width="11.671" height="4.095"/>
+	
+		<rect x="59.755" y="307.339" transform="matrix(-1 -4.504320e-11 4.504320e-11 -1 131.1807 618.7722)" class="st2" width="11.671" height="4.095"/>
+	<circle class="st2" cx="183.232" cy="73.289" r="25.831"/>
+	<rect x="460.369" y="42.852" class="st2" width="19.876" height="376.147"/>
+	<rect x="71.599" y="409.787" class="st2" width="408.368" height="9.212"/>
+	<rect x="71.426" y="42.852" class="st2" width="317.332" height="9.212"/>
+	<rect x="449.663" y="42.852" class="st2" width="17.801" height="9.212"/>
+</g>
+<g id="Doors">
+	<path class="st1" d="M449.674,42.972l0.004-18.221c-7.275,0-20.037,6.353-20.037,18.222C429.641,20.083,409.108,1,388.774,1
+		l0,41.851"/>
+</g>
+</svg>

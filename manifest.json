@@ -1,0 +1,30 @@
+{
+  "source": "https://aircenter.space",
+  "hostname": "aircenter.space",
+  "capturedAt": "2026-06-19T22:03:12.758Z",
+  "routes": [
+    "/",
+    "/about",
+    "/developer",
+    "/investment",
+    "/location",
+    "/management-service",
+    "/news",
+    "/offices",
+    "/parking",
+    "/privacy-policy",
+    "/progress",
+    "/user-agreement",
+    "/visual-search"
+  ],
+  "filesSaved": 422,
+  "bytesSaved": 19575838,
+  "exhaustive": true,
+  "audit": {
+    "referenced": 409,
+    "present": 396,
+    "missing": [],
+    "external": [],
+    "backfilled": 88
+  }
+}
